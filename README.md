@@ -1,4 +1,5 @@
 # Mobile device user-agent detector
+detect all mobile device using php string medthod
 iPhone 12 Pro Max (iOS 14.4):
 ```
 Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
